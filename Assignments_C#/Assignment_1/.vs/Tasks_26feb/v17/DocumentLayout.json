@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sharadc\\source\\repos\\Tasks_26feb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3793E2-C9F3-474C-9137-EC5F69912D6A}|Tasks_26feb\\Tasks_26feb.csproj|c:\\users\\sharadc\\source\\repos\\tasks_26feb\\tasks_26feb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3793E2-C9F3-474C-9137-EC5F69912D6A}|Tasks_26feb\\Tasks_26feb.csproj|solutionrelative:tasks_26feb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sharadc\\source\\repos\\Tasks_26feb\\Tasks_26feb\\Program.cs",
+              "RelativeDocumentMoniker": "Tasks_26feb\\Program.cs",
+              "ToolTip": "C:\\Users\\sharadc\\source\\repos\\Tasks_26feb\\Tasks_26feb\\Program.cs",
+              "RelativeToolTip": "Tasks_26feb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T04:17:39.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

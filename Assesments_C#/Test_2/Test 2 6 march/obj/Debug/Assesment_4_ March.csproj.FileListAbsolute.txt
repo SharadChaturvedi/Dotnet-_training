@@ -1,0 +1,7 @@
+C:\Users\sharadc\source\repos\Assesment_4_ March\Assesment_4_ March\bin\Debug\Assesment_4_ March.exe.config
+C:\Users\sharadc\source\repos\Assesment_4_ March\Assesment_4_ March\bin\Debug\Assesment_4_ March.exe
+C:\Users\sharadc\source\repos\Assesment_4_ March\Assesment_4_ March\bin\Debug\Assesment_4_ March.pdb
+C:\Users\sharadc\source\repos\Assesment_4_ March\Assesment_4_ March\obj\Debug\Assesment_4_ March.csproj.AssemblyReference.cache
+C:\Users\sharadc\source\repos\Assesment_4_ March\Assesment_4_ March\obj\Debug\Assesment_4_ March.csproj.CoreCompileInputs.cache
+C:\Users\sharadc\source\repos\Assesment_4_ March\Assesment_4_ March\obj\Debug\Assesment_4_ March.exe
+C:\Users\sharadc\source\repos\Assesment_4_ March\Assesment_4_ March\obj\Debug\Assesment_4_ March.pdb

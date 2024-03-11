@@ -1,0 +1,7 @@
+C:\Users\sharadc\source\repos\Assignment 5 march\Assignment 5 march\obj\Debug\Assignment 5 march.csproj.AssemblyReference.cache
+C:\Users\sharadc\source\repos\Assignment 5 march\Assignment 5 march\obj\Debug\Assignment 5 march.csproj.CoreCompileInputs.cache
+C:\Users\sharadc\source\repos\Assignment 5 march\Assignment 5 march\bin\Debug\Assignment 5 march.exe.config
+C:\Users\sharadc\source\repos\Assignment 5 march\Assignment 5 march\bin\Debug\Assignment 5 march.exe
+C:\Users\sharadc\source\repos\Assignment 5 march\Assignment 5 march\bin\Debug\Assignment 5 march.pdb
+C:\Users\sharadc\source\repos\Assignment 5 march\Assignment 5 march\obj\Debug\Assignment 5 march.exe
+C:\Users\sharadc\source\repos\Assignment 5 march\Assignment 5 march\obj\Debug\Assignment 5 march.pdb

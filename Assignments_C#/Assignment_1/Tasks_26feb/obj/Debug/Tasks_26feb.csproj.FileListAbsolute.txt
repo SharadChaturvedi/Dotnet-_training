@@ -1,0 +1,7 @@
+C:\Users\sharadc\source\repos\Tasks_26feb\Tasks_26feb\bin\Debug\Tasks_26feb.exe.config
+C:\Users\sharadc\source\repos\Tasks_26feb\Tasks_26feb\bin\Debug\Tasks_26feb.exe
+C:\Users\sharadc\source\repos\Tasks_26feb\Tasks_26feb\bin\Debug\Tasks_26feb.pdb
+C:\Users\sharadc\source\repos\Tasks_26feb\Tasks_26feb\obj\Debug\Tasks_26feb.csproj.AssemblyReference.cache
+C:\Users\sharadc\source\repos\Tasks_26feb\Tasks_26feb\obj\Debug\Tasks_26feb.csproj.CoreCompileInputs.cache
+C:\Users\sharadc\source\repos\Tasks_26feb\Tasks_26feb\obj\Debug\Tasks_26feb.exe
+C:\Users\sharadc\source\repos\Tasks_26feb\Tasks_26feb\obj\Debug\Tasks_26feb.pdb

@@ -1,0 +1,7 @@
+C:\Users\sharadc\source\repos\Assignment Code_28feb\Assignment Code_28feb\bin\Debug\Assignment Code_28feb.exe.config
+C:\Users\sharadc\source\repos\Assignment Code_28feb\Assignment Code_28feb\bin\Debug\Assignment Code_28feb.exe
+C:\Users\sharadc\source\repos\Assignment Code_28feb\Assignment Code_28feb\bin\Debug\Assignment Code_28feb.pdb
+C:\Users\sharadc\source\repos\Assignment Code_28feb\Assignment Code_28feb\obj\Debug\Assignment Code_28feb.csproj.AssemblyReference.cache
+C:\Users\sharadc\source\repos\Assignment Code_28feb\Assignment Code_28feb\obj\Debug\Assignment Code_28feb.csproj.CoreCompileInputs.cache
+C:\Users\sharadc\source\repos\Assignment Code_28feb\Assignment Code_28feb\obj\Debug\Assignment Code_28feb.exe
+C:\Users\sharadc\source\repos\Assignment Code_28feb\Assignment Code_28feb\obj\Debug\Assignment Code_28feb.pdb
