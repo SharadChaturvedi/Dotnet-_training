@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_DotNetTraining\\Assesments_C#\\Test_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{508237F8-3D11-4947-9773-3C17FCB9E8FB}|Test_3\\Test_3.csproj|d:\\c#_dotnettraining\\assesments_c#\\test_3\\test_3\\que_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508237F8-3D11-4947-9773-3C17FCB9E8FB}|Test_3\\Test_3.csproj|solutionrelative:test_3\\que_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508237F8-3D11-4947-9773-3C17FCB9E8FB}|Test_3\\Test_3.csproj|d:\\c#_dotnettraining\\assesments_c#\\test_3\\test_3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508237F8-3D11-4947-9773-3C17FCB9E8FB}|Test_3\\Test_3.csproj|solutionrelative:test_3\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508237F8-3D11-4947-9773-3C17FCB9E8FB}|Test_3\\Test_3.csproj|d:\\c#_dotnettraining\\assesments_c#\\test_3\\test_3\\delegates .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508237F8-3D11-4947-9773-3C17FCB9E8FB}|Test_3\\Test_3.csproj|solutionrelative:test_3\\delegates .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508237F8-3D11-4947-9773-3C17FCB9E8FB}|Test_3\\Test_3.csproj|d:\\c#_dotnettraining\\assesments_c#\\test_3\\test_3\\genericlistcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508237F8-3D11-4947-9773-3C17FCB9E8FB}|Test_3\\Test_3.csproj|solutionrelative:test_3\\genericlistcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\C#_DotNetTraining\\Assesments_C#\\Test_3\\Test_3\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Test_3\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\C#_DotNetTraining\\Assesments_C#\\Test_3\\Test_3\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Test_3\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:34:23.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericListCollection.cs",
+              "DocumentMoniker": "D:\\C#_DotNetTraining\\Assesments_C#\\Test_3\\Test_3\\GenericListCollection.cs",
+              "RelativeDocumentMoniker": "Test_3\\GenericListCollection.cs",
+              "ToolTip": "D:\\C#_DotNetTraining\\Assesments_C#\\Test_3\\Test_3\\GenericListCollection.cs",
+              "RelativeToolTip": "Test_3\\GenericListCollection.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwD4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T04:48:49.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delegates .cs",
+              "DocumentMoniker": "D:\\C#_DotNetTraining\\Assesments_C#\\Test_3\\Test_3\\Delegates .cs",
+              "RelativeDocumentMoniker": "Test_3\\Delegates .cs",
+              "ToolTip": "D:\\C#_DotNetTraining\\Assesments_C#\\Test_3\\Test_3\\Delegates .cs",
+              "RelativeToolTip": "Test_3\\Delegates .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T04:24:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "que_1.cs",
+              "DocumentMoniker": "D:\\C#_DotNetTraining\\Assesments_C#\\Test_3\\Test_3\\que_1.cs",
+              "RelativeDocumentMoniker": "Test_3\\que_1.cs",
+              "ToolTip": "D:\\C#_DotNetTraining\\Assesments_C#\\Test_3\\Test_3\\que_1.cs",
+              "RelativeToolTip": "Test_3\\que_1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T04:17:29.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

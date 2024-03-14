@@ -1,0 +1,7 @@
+D:\C#_DotNetTraining\Assesments_C#\Test_3\Test_3\bin\Debug\Test_3.exe.config
+D:\C#_DotNetTraining\Assesments_C#\Test_3\Test_3\bin\Debug\Test_3.exe
+D:\C#_DotNetTraining\Assesments_C#\Test_3\Test_3\bin\Debug\Test_3.pdb
+D:\C#_DotNetTraining\Assesments_C#\Test_3\Test_3\obj\Debug\Test_3.csproj.AssemblyReference.cache
+D:\C#_DotNetTraining\Assesments_C#\Test_3\Test_3\obj\Debug\Test_3.csproj.CoreCompileInputs.cache
+D:\C#_DotNetTraining\Assesments_C#\Test_3\Test_3\obj\Debug\Test_3.exe
+D:\C#_DotNetTraining\Assesments_C#\Test_3\Test_3\obj\Debug\Test_3.pdb
