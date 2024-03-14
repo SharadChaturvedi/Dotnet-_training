@@ -1,0 +1,6 @@
+C:\Users\sharadc\source\repos\concession\concession\bin\Debug\concession.dll
+C:\Users\sharadc\source\repos\concession\concession\bin\Debug\concession.pdb
+C:\Users\sharadc\source\repos\concession\concession\obj\Debug\concession.csproj.AssemblyReference.cache
+C:\Users\sharadc\source\repos\concession\concession\obj\Debug\concession.csproj.CoreCompileInputs.cache
+C:\Users\sharadc\source\repos\concession\concession\obj\Debug\concession.dll
+C:\Users\sharadc\source\repos\concession\concession\obj\Debug\concession.pdb

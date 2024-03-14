@@ -1,0 +1,10 @@
+C:\Users\sharadc\source\repos\concession\TestClient_\obj\Debug\TestClient_.csproj.AssemblyReference.cache
+C:\Users\sharadc\source\repos\concession\TestClient_\obj\Debug\TestClient_.csproj.CoreCompileInputs.cache
+C:\Users\sharadc\source\repos\concession\TestClient_\bin\Debug\TestClient_.exe.config
+C:\Users\sharadc\source\repos\concession\TestClient_\bin\Debug\TestClient_.exe
+C:\Users\sharadc\source\repos\concession\TestClient_\bin\Debug\TestClient_.pdb
+C:\Users\sharadc\source\repos\concession\TestClient_\bin\Debug\concession.dll
+C:\Users\sharadc\source\repos\concession\TestClient_\bin\Debug\concession.pdb
+C:\Users\sharadc\source\repos\concession\TestClient_\obj\Debug\TestClie.C003232B.Up2Date
+C:\Users\sharadc\source\repos\concession\TestClient_\obj\Debug\TestClient_.exe
+C:\Users\sharadc\source\repos\concession\TestClient_\obj\Debug\TestClient_.pdb
