@@ -60,7 +60,7 @@ select * from Department
 select * from Employee where Emp_Name Like 'A%'
  -- 2all those employees who don't have a manager
 
-select * from Employee where job!='Manager'
+select * from Employee where Mgr_id is null
  
 --3 List employee name, number and salary for those employees who earn in the range 1200 to 1400
 
