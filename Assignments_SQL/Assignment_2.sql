@@ -44,7 +44,8 @@ select * from Employee
 -- Create tabel Department
 
 create table Department(Dept_No Numeric(3) primary Key, Dept_Name varchar(15), Loc varchar(20))
- 
+ select * from Department
+
 -- insert values in Department table
 
 insert into Department values(10, 'ACCOUNTING', 'NEW YORK'),(20, 'RESEARCH', 'DALLAS'),
@@ -55,62 +56,55 @@ insert into Department values(10, 'ACCOUNTING', 'NEW YORK'),(20, 'RESEARCH', 'DA
 
 select * from Department
  
---1 List all employees whose name begins with 'A'.
+--1 .List all employees whose name begins with 'A'
 
 select * from Employee where Emp_Name Like 'A%'
- -- 2all those employees who don't have a manager
 
-select * from Employee where Mgr_id is null
+ --2 .Select all those employees who don't have a manager
+
+select * from Employee where job!='Manager'
  
---3 List employee name, number and salary for those employees who earn in the range 1200 to 1400
+--3 .List employee name, number and salary for those employees who earn in the range 1200 to 1400.
 
 select Emp_Name, Emp_no, Salary from Employee where Salary Between 1200 and 1400
  
---4 10% pay raise...
+--4 . Give all the employees in the RESEARCH department a 10% pay rise. 
+--Verify that this has been done by listing all their details before and after the rise. 
 
-Select Dept_Name, Dept_No FROM Department
-
-Where Dept_Name= 'Research';
-
- --Before PayRise
-
+select Dept_no from Department where Dept_Name = 'research' 
 Select Emp_no, Emp_Name, Job, salary From Employee
 
-where Dept_no = 20;
- 
---After PayRise
+where Dept_no = 20;-- before the raise
 
 select Emp_no, Emp_Name, Job, Salary = Salary+((Salary*10)/100) from Employee
 
-Where Dept_no = 20
+Where Dept_no = 20 -- after payraise
  
---5 Find the number of CLERKS employed. 
+--5 Find the number of CLERKS employed. Give it a descriptive heading.
 
 Select COUNT(*) as " clerk employees " from Employee
 
 where job = 'CLERK';
  
--- 6 Find the average salary for each job type and the number of people employed in each job
+-- 6 Find the average salary for each job type and the number of people employed in each job.
 
-select job,Avg(Salary) as Average_Salary from Employee
+Select job, AVG(salary) as "Average salary",count(*) as "No. of Employees" From Employee Group By job
 
-Group by job
- 
--- 7 List the employees with the lowest and highest salary
+-- 7 List the employees with the lowest and highest salary. 
 
 --Highest Salary
 
-select Emp_No,Emp_Name,job,Mgr_id,Hire_Date, Salary as "Max Salary of Employees",Comm,Dept_no from Employee
+select Emp_Name,job , Salary as "highest  Salary of Employees" from Employee
 
 where Salary  =(select Max(Salary) from Employee)
 
 --lowest Salary
 
-select Emp_No,Emp_Name,job,Mgr_id,Hire_Date, Salary as "Min Salary of Employees",Comm,Dept_no from Employee
+select Emp_Name,job,Salary as " lowest Salary of Employees", from Employee
 
 where Salary  =(select Min(Salary) from Employee)
  
--- 8List full details of departments that don't have any employees
+-- 8List full details of departments that don't have any employees.
 
 select Dept.Dept_No, Dept.Dept_Name, Dept.Loc
 
@@ -121,40 +115,46 @@ Left JOIN Employee Em ON Dept.Dept_No = Em.Dept_no
 WHERE Em.Emp_no IS NULL;
  
 -- 9 Get the names and salaries of all the analysts earning more than 1200 who are based in department 20.
+--Sort the answer by ascending order of name. 
  select Emp_Name, Salary, Job from Employee
 
 where Salary>1200 and Dept_no=20 and job = 'Analyst'
 -- sorting done by emp name --
 Order by Emp_Name
 
--- 10Query to Find out salary of both MILLER and SMITH.
+-- 10 . Find out salary of both MILLER and SMITH.
 select Salary ,Emp_Name from Employee 
 where Emp_Name = ('Smith') or Emp_Name = ('Miller')
 
 select * from Employee
 
 
--- 11 For each department, list its name and number together with the total salary paid to employees in that department. 
+--11 For each department,
+--list its name and number together with the total salary paid to employees in that department.
 
-select Dept.Dept_Name, Dept.Dept_no, sum(E.Salary) from Department Dept
-Left join Employee E on Dept.Dept_no = E.Dept_no
-Group by dept.Dept_no, Dept.Dept_Name
-Order by Dept.Dept_No
+select Dept_Name ,Department.Dept_No  , sum(Salary) as "total salary" from Department
+join Employee on  Department.Dept_No = Employee.Dept_no
+group by Dept_Name ,Department.Dept_No 
 
---12 
+
+
+--12 Find out the names of the employees whose name begin with ‘A’ or ‘M’
 select Emp_Name from Employee 
-where Emp_Name like 'A%M'
--- there is no name starting with a and ending with m .....
+where Emp_Name like 'A%' or Emp_Name like 'm%'
+-- there are 4 employees .....
 
---13
+--13 Compute yearly salary of SMITH. 
 select Emp_Name, Salary*12 from Employee
 where Emp_Name='Smith'
 
---14
+--14List the name and salary for all employees whose salary is not in the range of 1500 and 2850.
 select Emp_Name, salary from Employee
 where salary Not Between 1500 and 2850
 
---15
+--15  Find all managers who have more than 2 employees reporting to them.
 select mgr_id  ,count(Emp_no) as ' number of emloyee under mngr ' from Employee 
 group by mgr_id
 having count ( Emp_no) >2 
+
+--select mgr_id from Employee 
+--group by Mgr_id having count (Emp_no)>2
