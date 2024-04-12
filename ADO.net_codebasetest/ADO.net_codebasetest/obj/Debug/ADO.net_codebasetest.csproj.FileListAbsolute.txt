@@ -1,7 +1,0 @@
-D:\C#_DotNetTraining\assesment_ADO.net\ADO.net_codebasetest\ADO.net_codebasetest\bin\Debug\ADO.net_codebasetest.exe.config
-D:\C#_DotNetTraining\assesment_ADO.net\ADO.net_codebasetest\ADO.net_codebasetest\bin\Debug\ADO.net_codebasetest.exe
-D:\C#_DotNetTraining\assesment_ADO.net\ADO.net_codebasetest\ADO.net_codebasetest\bin\Debug\ADO.net_codebasetest.pdb
-D:\C#_DotNetTraining\assesment_ADO.net\ADO.net_codebasetest\ADO.net_codebasetest\obj\Debug\ADO.net_codebasetest.csproj.AssemblyReference.cache
-D:\C#_DotNetTraining\assesment_ADO.net\ADO.net_codebasetest\ADO.net_codebasetest\obj\Debug\ADO.net_codebasetest.csproj.CoreCompileInputs.cache
-D:\C#_DotNetTraining\assesment_ADO.net\ADO.net_codebasetest\ADO.net_codebasetest\obj\Debug\ADO.net_codebasetest.exe
-D:\C#_DotNetTraining\assesment_ADO.net\ADO.net_codebasetest\ADO.net_codebasetest\obj\Debug\ADO.net_codebasetest.pdb
